@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.vmware.iot.smart_interaction</groupId>
+  <artifactId>smart_interaction_client</artifactId>
+  <versioning>
+    <release>1.0.0</release>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20180613135407</lastUpdated>
+  </versioning>
+</metadata>
